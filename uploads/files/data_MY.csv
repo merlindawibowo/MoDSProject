@@ -1,0 +1,101 @@
+date,time,region,state,api,decision
+11/25/2014,7:00AM,Sarawak,Limbang,27,good
+11/25/2014,7:00AM,Sarawak,Samarahan,19,good
+11/25/2014,7:00AM,Sarawak,Sri Aman,30,good
+11/25/2014,7:00AM,Sarawak,Kapit,19,good
+11/25/2014,7:00AM,Sabah,Kota Kinabalu,46,good
+11/25/2014,7:00AM,Sabah,Tawau,26,good
+11/25/2014,7:00AM,Sabah,Keningau,34,good
+11/25/2014,7:00AM,Sabah,Sandakan,39,good
+11/25/2014,8:00AM,Perlis,Kangar,20,good
+11/25/2014,8:00AM,Kedah,Langkawi,25,good
+11/25/2014,8:00AM,Kedah,Alor Setar,36,good
+11/25/2014,8:00AM,Kedah,"Bakar Arang, Sg. Petani",57,moderate
+11/25/2014,8:00AM,Pulau Pinang,USM,51,moderate
+11/25/2014,8:00AM,Pulau Pinang,Perai,30,good
+11/25/2014,8:00AM,Pulau Pinang,"Seberang Jaya 2, Perai",51,moderate
+11/25/2014,8:00AM,Perak,"Jalan Tasek, Ipoh",38,good
+11/25/2014,8:00AM,Perak,"S K Jalan Pegoh, Ipoh",26,good
+11/25/2014,8:00AM,Perak,"Kg. Air Putih, Taiping",43,good
+11/25/2014,8:00AM,Perak,Seri Manjung,27,good
+11/25/2014,8:00AM,Perak,Tanjung Malim,14,good
+11/25/2014,8:00AM,Selangor,Pelabuhan Kelang,40,good
+11/25/2014,8:00AM,Selangor,Petaling Jaya,31,good
+11/25/2014,8:00AM,Selangor,Banting,36,good
+11/25/2014,8:00AM,Selangor,Shah Alam,28,good
+11/25/2014,8:00AM,Selangor,Kuala Selangor,19,good
+11/25/2014,8:00AM,Wilayah Persekutuan,"Batu Muda,Kuala Lumpur",24,good
+11/25/2014,8:00AM,Wilayah Persekutuan,"heras,Kuala Lumpur",34,good
+11/25/2014,8:00AM,Wilayah Persekutuan,Putrajaya,31,good
+11/25/2014,8:00AM,Wilayah Persekutuan,Labuan,17,good
+11/25/2014,8:00AM,Negeri Sembilan,Nilai,35,good
+11/25/2014,8:00AM,Negeri Sembilan,Seremban,30,good
+11/25/2014,8:00AM,Negeri Sembilan,Port Dikson,24,good
+11/25/2014,8:00AM,Melaka,Bukit Rambai,43,good
+11/25/2014,8:00AM,Melaka,Bandaraya Melaka,25,good
+11/25/2014,8:00AM,Johor,Pasir Gudang,28,good
+11/25/2014,8:00AM,Johor,Larkin Lama,32,good
+11/25/2014,8:00AM,Johor,Muar,38,good
+11/25/2014,8:00AM,Johor,Kota Tinggi,21,good
+11/25/2014,8:00AM,Kelantan,Tanah Merah ,18,good
+11/25/2014,8:00AM,Kelantan,"SMK Tanjung hat, Kota Bharu",52,moderate
+11/25/2014,8:00AM,Terengganu,Kemaman,27,good
+11/25/2014,8:00AM,Terengganu,Paka,21,good
+11/25/2014,8:00AM,Terengganu,Kuala Terengganu,18,good
+11/25/2014,8:00AM,Pahang,Jerantut,27,good
+11/25/2014,8:00AM,Pahang,"Indera Mahkota, Kuantan",21,good
+11/25/2014,8:00AM,Pahang,"Balok Baru, Kuantan",36,good
+11/25/2014,8:00AM,Sarawak,Kuhing,27,good
+11/25/2014,8:00AM,Sarawak,Sibu,18,good
+11/25/2014,8:00AM,Sarawak,Bintulu,24,good
+11/25/2014,8:00AM,Sarawak,Miri,32,good
+11/25/2014,8:00AM,Sarawak,ILP Miri,22,good
+11/25/2014,8:00AM,Sarawak,Sarikei,25,good
+11/25/2014,8:00AM,Sarawak,Limbang,27,good
+11/25/2014,8:00AM,Sarawak,Samarahan,19,good
+11/25/2014,8:00AM,Sarawak,Sri Aman,31,good
+11/25/2014,8:00AM,Sarawak,Kapit,20,good
+11/25/2014,8:00AM,Sabah,Kota Kinabalu,46,good
+11/25/2014,8:00AM,Sabah,Tawau,26,good
+11/25/2014,8:00AM,Sabah,Keningau,34,good
+11/25/2014,8:00AM,Sabah,Sandakan,39,good
+11/25/2014,9:00AM,Perlis,Kangar,19,good
+11/25/2014,9:00AM,Kedah,Langkawi,26,good
+11/25/2014,9:00AM,Kedah,Alor Setar,37,good
+11/25/2014,9:00AM,Kedah,"Bakar Arang, Sg. Petani",57,moderate
+11/25/2014,9:00AM,Pulau Pinang,USM,51,moderate
+11/25/2014,9:00AM,Pulau Pinang,Perai,31,good
+11/25/2014,9:00AM,Pulau Pinang,"Seberang Jaya 2, Perai",51,moderate
+11/25/2014,9:00AM,Perak,"Jalan Tasek, Ipoh",38,good
+11/25/2014,9:00AM,Perak,"S K Jalan Pegoh, Ipoh",26,good
+11/25/2014,9:00AM,Perak,"Kg. Air Putih, Taiping",43,good
+11/25/2014,9:00AM,Perak,Seri Manjung,28,good
+11/25/2014,9:00AM,Perak,Tanjung Malim,14,good
+11/25/2014,9:00AM,Selangor,Pelabuhan Kelang,41,good
+11/25/2014,9:00AM,Selangor,Petaling Jaya,31,good
+11/25/2014,9:00AM,Selangor,Banting,36,good
+11/25/2014,9:00AM,Selangor,Shah Alam,28,good
+11/25/2014,9:00AM,Selangor,Kuala Selangor,21,good
+11/25/2014,9:00AM,Wilayah Persekutuan,"Batu Muda,Kuala Lumpur",26,good
+11/25/2014,9:00AM,Wilayah Persekutuan,"heras,Kuala Lumpur",34,good
+11/25/2014,9:00AM,Wilayah Persekutuan,Putrajaya,32,good
+11/25/2014,9:00AM,Wilayah Persekutuan,Labuan,17,good
+11/25/2014,9:00AM,Negeri Sembilan,Nilai,35,good
+11/25/2014,9:00AM,Negeri Sembilan,Seremban,30,good
+11/25/2014,9:00AM,Negeri Sembilan,Port Dikson,24,good
+11/25/2014,9:00AM,Melaka,Bukit Rambai,45,good
+11/25/2014,9:00AM,Melaka,Bandaraya Melaka,25,good
+11/25/2014,9:00AM,Johor,Pasir Gudang,27,good
+11/25/2014,9:00AM,Johor,Larkin Lama,32,good
+11/25/2014,9:00AM,Johor,Muar,39,good
+11/25/2014,9:00AM,Johor,Kota Tinggi,20,good
+11/25/2014,9:00AM,Kelantan,Tanah Merah ,17,good
+11/25/2014,9:00AM,Kelantan,"SMK Tanjung hat, Kota Bharu",52,moderate
+11/25/2014,9:00AM,Terengganu,Kemaman,27,good
+11/25/2014,9:00AM,Terengganu,Paka,20,good
+11/25/2014,9:00AM,Terengganu,Kuala Terengganu,17,good
+11/25/2014,9:00AM,Pahang,Jerantut,27,good
+11/25/2014,9:00AM,Pahang,"Indera Mahkota, Kuantan",21,good
+11/25/2014,9:00AM,Pahang,"Balok Baru, Kuantan",36,good
+11/25/2014,9:00AM,Sarawak,Kuhing,27,good
+11/25/2014,9:00AM,Sarawak,Sibu,18,good
